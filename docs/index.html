@@ -19,6 +19,7 @@
     .body{padding:12px}
     .name{font-weight:700;margin:0 0 6px;font-size:14px}
     .meta{opacity:.78;font-size:12px;margin:0 0 10px;line-height:1.3}
+    .logo{max-width:220px;   /* 🔑 QUESTO è il punto chiave */;width: 100% }
     .tags{display:flex;flex-wrap:wrap;gap:6px}
     .tag{font-size:11px;color:rgba(231,231,234,.78);border:1px solid var(--border);
       padding:4px 8px;border-radius:999px;background:rgba(0,0,0,.15);
@@ -29,7 +30,7 @@
 </head>
 <body>
   <div class="wrap">
-    <img src="JSON_HUB_LOGO.png" width="30%">
+    <img src="JSON_HUB_LOGO.png" class="logo">
     <div class="toolbar">
       <input id="q" placeholder="Cerca per nome, autore, descrizione o tag…">
       <div class="small" id="status"></div>
