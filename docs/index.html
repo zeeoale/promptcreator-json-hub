@@ -112,6 +112,13 @@
       const q = (qEl.value||"").trim();
       const out = q ? items.filter(x => matchText(x,q)) : items;
       render(out);
+      const raw = `../${it.file}`;
+      b.innerHTML = `
+  <div class="name">${it.name}</div>
+  <div class="meta"><b>Author:</b> ${it.author||"-"}<br>${it.description||""}</div>
+  <div class="meta"><a class="tag" href="${raw}" target="_blank" rel="noopener">download json</a></div>
+`;
+
       $("status").textContent = `Mostro ${out.length} / ${data.items.length} — ${tagParam ? `tag: ${tagParam}` : "tutti"}`;
     };
 
