@@ -1,6 +1,31 @@
 {
-  "updated": "2026-02-05T22:34:08.299484Z",
+  "updated": "2026-02-05T22:45:27.685736Z",
   "items": [
+    {
+      "id": "bcf0dd81f9f1",
+      "name": "PFN_Modern_Goth_Urban_Bedroom",
+      "file": "json/PFN_Modern_Goth_Urban_Bedroom.json",
+      "author": "traumakom",
+      "description": "PFN_Modern_Goth_Urban_Bedroom world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "across",
+        "walls",
+        "soft",
+        "scattered",
+        "room",
+        "porcelain",
+        "personal",
+        "modern",
+        "light",
+        "lamp",
+        "Goth",
+        "Modern",
+        "Bedroom"
+      ],
+      "preview": "previews/PFN_Modern_Goth_Urban_Bedroom.png",
+      "updated": "2026-02-05T22:45:27.685736Z"
+    },
     {
       "id": "fa984fe8123e",
       "name": "PFN_Lost_Fallen_Angel_V3",
