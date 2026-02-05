@@ -1,6 +1,26 @@
 {
-  "updated": "2026-02-05T22:52:58.597803Z",
+  "updated": "2026-02-05T23:02:05.958844Z",
   "items": [
+    {
+      "id": "7a518094ed54",
+      "name": "PFN_NeoPop_Horror_Rise",
+      "file": "json/PFN_NeoPop_Horror_Rise.json",
+      "author": "traumakom",
+      "description": "PFN_NeoPop_Horror_Rise world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "digital",
+        "subtle",
+        "soft",
+        "reflections",
+        "like",
+        "features",
+        "NeoPop",
+        "Horror"
+      ],
+      "preview": "previews/PFN_NeoPop_Horror_Rise.png",
+      "updated": "2026-02-05T23:02:05.958844Z"
+    },
     {
       "id": "41485993613a",
       "name": "PFN_Modern_Goth_Urban_V2",
