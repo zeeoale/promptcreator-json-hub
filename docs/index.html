@@ -162,22 +162,7 @@ thumb.appendChild(img);
     });
   }
 
-  const modal = document.getElementById("imgModal");
-const modalImg = document.getElementById("modalImg");
-const closeBtn = document.querySelector(".modal-close");
 
-function openModal(src){
-  modal.style.display = "flex";
-  modalImg.src = src;
-}
-
-closeBtn.onclick = () => modal.style.display = "none";
-modal.onclick = (e) => { if(e.target === modal) modal.style.display = "none"; }
-
-document.addEventListener("keydown", e=>{
-  if(e.key === "Escape") modal.style.display = "none";
-});
-  
   async function main(){
     const res = await fetch("index.json", {cache:"no-store"}); // index.json in docs/
     const data = await res.json();
@@ -200,6 +185,21 @@ document.addEventListener("keydown", e=>{
     apply();
   }
   main();
+  const modal = document.getElementById("imgModal");
+  const modalImg = document.getElementById("modalImg");
+  const closeBtn = document.querySelector(".modal-close");
+
+  function openModal(src){
+    modal.style.display = "flex";
+    modalImg.src = src;
+  }
+
+  closeBtn.onclick = () => modal.style.display = "none";
+  modal.onclick = (e) => { if(e.target === modal) modal.style.display = "none"; }
+
+  document.addEventListener("keydown", e=>{
+    if(e.key === "Escape") modal.style.display = "none";
+  });
 </script>
 <!-- Image Modal -->
 <div id="imgModal" class="modal">
