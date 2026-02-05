@@ -50,6 +50,35 @@
       text-decoration:none;display:inline-flex;align-items:center}
     .tag:hover{border-color:rgba(139,92,246,.35);color:rgba(231,231,234,.95)}
     .small{opacity:.7;font-size:12px}
+    .modal{
+  display:none;
+  position:fixed;
+  z-index:9999;
+  inset:0;
+  background:rgba(0,0,0,.92);
+  backdrop-filter: blur(4px);
+  align-items:center;
+  justify-content:center;
+}
+
+.modal-content{
+  max-width:90vw;
+  max-height:90vh;
+  border-radius:14px;
+  box-shadow:0 0 60px rgba(0,0,0,.6);
+}
+
+.modal-close{
+  position:absolute;
+  top:24px;
+  right:32px;
+  font-size:36px;
+  color:#fff;
+  cursor:pointer;
+  opacity:.7;
+}
+.modal-close:hover{opacity:1}
+
   </style>
 </head>
 <body>
@@ -91,10 +120,14 @@
       thumb.className="thumb";
 
       if(it.preview){
-        const img=document.createElement("img");
-        img.loading="lazy";
-        img.src=it.preview; // <-- RELATIVO: previews/xxx.png
-        thumb.appendChild(img);
+const img = document.createElement("img");
+img.loading = "lazy";
+img.src = it.preview;
+img.style.cursor = "zoom-in";
+
+img.onclick = () => openModal(it.preview);
+
+thumb.appendChild(img);
       } else {
         thumb.textContent="(no preview)";
       }
@@ -129,6 +162,22 @@
     });
   }
 
+  const modal = document.getElementById("imgModal");
+const modalImg = document.getElementById("modalImg");
+const closeBtn = document.querySelector(".modal-close");
+
+function openModal(src){
+  modal.style.display = "flex";
+  modalImg.src = src;
+}
+
+closeBtn.onclick = () => modal.style.display = "none";
+modal.onclick = (e) => { if(e.target === modal) modal.style.display = "none"; }
+
+document.addEventListener("keydown", e=>{
+  if(e.key === "Escape") modal.style.display = "none";
+});
+  
   async function main(){
     const res = await fetch("index.json", {cache:"no-store"}); // index.json in docs/
     const data = await res.json();
@@ -152,6 +201,10 @@
   }
   main();
 </script>
-
+<!-- Image Modal -->
+<div id="imgModal" class="modal">
+  <span class="modal-close">&times;</span>
+  <img class="modal-content" id="modalImg">
+</div>
 </body>
 </html>
