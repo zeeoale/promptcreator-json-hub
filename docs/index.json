@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-05T22:45:27.685736Z",
+  "updated": "2026-02-05T22:52:58.597803Z",
   "items": [
+    {
+      "id": "41485993613a",
+      "name": "PFN_Modern_Goth_Urban_V2",
+      "file": "json/PFN_Modern_Goth_Urban_V2.json",
+      "author": "traumakom",
+      "description": "PFN_Modern_Goth_Urban_V2 world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "across",
+        "walls",
+        "soft",
+        "scattered",
+        "room",
+        "porcelain",
+        "personal",
+        "light",
+        "Goth",
+        "Modern"
+      ],
+      "preview": "previews/PFN_Modern_Goth_Urban_V2.png",
+      "updated": "2026-02-05T22:52:58.597803Z"
+    },
     {
       "id": "bcf0dd81f9f1",
       "name": "PFN_Modern_Goth_Urban_Bedroom",
