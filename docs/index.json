@@ -1,6 +1,26 @@
 {
-  "updated": "2026-02-05T22:13:55.723944Z",
+  "updated": "2026-02-05T22:34:08.299484Z",
   "items": [
+    {
+      "id": "fa984fe8123e",
+      "name": "PFN_Lost_Fallen_Angel_V3",
+      "file": "json/PFN_Lost_Fallen_Angel_V3.json",
+      "author": "traumakom",
+      "description": "PFN_Lost_Fallen_Angel_V3 world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "soft",
+        "restrained",
+        "rendered",
+        "delicate",
+        "wings",
+        "wax",
+        "Fallen",
+        "Angel"
+      ],
+      "preview": "previews/PFN_Lost_Fallen_Angel_V3.png",
+      "updated": "2026-02-05T22:34:08.299484Z"
+    },
     {
       "id": "b50d71e00c84",
       "name": "PFN_HongKong_Street_Alley_Cyberpunk",
