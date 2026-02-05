@@ -90,7 +90,11 @@
     </div>
     <div class="grid" id="grid"></div>
   </div>
-
+<!-- Image Modal -->
+<div id="imgModal" class="modal">
+  <span class="modal-close">&times;</span>
+  <img class="modal-content" id="modalImg">
+</div>
 <script>
   const $ = (id)=>document.getElementById(id);
   const qs = new URLSearchParams(location.search);
@@ -201,10 +205,6 @@ thumb.appendChild(img);
     if(e.key === "Escape") modal.style.display = "none";
   });
 </script>
-<!-- Image Modal -->
-<div id="imgModal" class="modal">
-  <span class="modal-close">&times;</span>
-  <img class="modal-content" id="modalImg">
-</div>
+
 </body>
 </html>
