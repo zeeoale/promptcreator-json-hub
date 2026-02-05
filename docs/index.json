@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-05T21:10:57.827394Z",
+  "updated": "2026-02-05T21:29:42.131490Z",
   "items": [
+    {
+      "id": "fe17c132cead",
+      "name": "PFN_Dark_Nun_V3",
+      "file": "json/PFN_Dark_Nun_V3.json",
+      "author": "traumakom",
+      "description": "PFN_Dark_Nun_V3 world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "ritual",
+        "down",
+        "silhouette",
+        "sacrilegious",
+        "half",
+        "gothic",
+        "forbidden",
+        "dark",
+        "ceremonial",
+        "Nun"
+      ],
+      "preview": "previews/PFN_Dark_Nun_V3.png",
+      "updated": "2026-02-05T21:29:42.131490Z"
+    },
     {
       "id": "a0c6a184c124",
       "name": "PFN_Cyberpunk2077_Reforged",
