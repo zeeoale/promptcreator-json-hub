@@ -64,10 +64,11 @@
 
       const thumb = document.createElement("div");
       thumb.className="thumb";
+
       if(it.preview){
         const img=document.createElement("img");
         img.loading="lazy";
-        img.src=it.preview;
+        img.src=it.preview; // <-- RELATIVO: previews/xxx.png
         thumb.appendChild(img);
       } else {
         thumb.textContent="(no preview)";
@@ -75,9 +76,15 @@
 
       const b = document.createElement("div");
       b.className="body";
+
+      const raw = it.file; // <-- RELATIVO: json/xxx.json
+
       b.innerHTML = `
         <div class="name">${it.name}</div>
         <div class="meta"><b>Author:</b> ${it.author||"-"}<br>${it.description||""}</div>
+        <div class="meta">
+          <a class="tag" href="${raw}" target="_blank" rel="noopener">download json</a>
+        </div>
       `;
 
       const tags = document.createElement("div");
@@ -98,11 +105,10 @@
   }
 
   async function main(){
-    const res = await fetch("index.json", {cache:"no-store"});
+    const res = await fetch("index.json", {cache:"no-store"}); // index.json in docs/
     const data = await res.json();
     let items = data.items || [];
 
-    // filtro tag da URL
     if(tagParam){
       items = items.filter(x => hasTag(x, tagParam));
     }
@@ -112,14 +118,8 @@
       const q = (qEl.value||"").trim();
       const out = q ? items.filter(x => matchText(x,q)) : items;
       render(out);
-      const raw = `../${it.file}`;
-      b.innerHTML = `
-  <div class="name">${it.name}</div>
-  <div class="meta"><b>Author:</b> ${it.author||"-"}<br>${it.description||""}</div>
-  <div class="meta"><a class="tag" href="${raw}" target="_blank" rel="noopener">download json</a></div>
-`;
-
-      $("status").textContent = `Mostro ${out.length} / ${data.items.length} — ${tagParam ? `tag: ${tagParam}` : "tutti"}`;
+      $("status").textContent =
+        `Mostro ${out.length} / ${data.items.length} — ${tagParam ? `tag: ${tagParam}` : "tutti"}`;
     };
 
     qEl.addEventListener("input", apply);
@@ -127,5 +127,6 @@
   }
   main();
 </script>
+
 </body>
 </html>
