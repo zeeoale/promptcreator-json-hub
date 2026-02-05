@@ -1,6 +1,31 @@
 {
-  "updated": "2026-02-05T15:18:35.537142Z",
+  "updated": "2026-02-05T17:58:41.630513Z",
   "items": [
+    {
+      "id": "6b0940ca6c45",
+      "name": "PFN_Veiled_Rite_of_Silence",
+      "file": "json/PFN_Veiled_Rite_of_Silence.json",
+      "author": "traumakom",
+      "description": "PFN_Veiled_Rite_of_Silence world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "ritual",
+        "gothic",
+        "wet",
+        "very",
+        "soft",
+        "silver",
+        "heavy",
+        "fabric",
+        "eroticism",
+        "delicate",
+        "veiled",
+        "rite",
+        "silence"
+      ],
+      "preview": "previews/PFN_Veiled_Rite_of_Silence.png",
+      "updated": "2026-02-05T17:58:41.630513Z"
+    },
     {
       "id": "0d5ce8fccc35",
       "name": "PFN_Crystal_Blossom_Closeup",
