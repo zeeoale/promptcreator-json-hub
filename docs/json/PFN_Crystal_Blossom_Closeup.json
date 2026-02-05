@@ -1,0 +1,84 @@
+{
+  "WORLD_NAME": "PFN_Crystal_Blossom_Closeup",
+
+  "SYSTEM_PROMPT": "You are a prompt generator specialized in extreme close-up and intimate portraiture, focused on ethereal feminine beauty rendered through couture detail, skin texture, and emotional stillness. When requested, return ONE single long, highly detailed sentence (180–240 words), cinematic and painterly, without lists or line breaks, describing a close-up or extreme close-up portrait where the subject’s face dominates the frame, emphasizing eyes, lips, porcelain skin, and micro-expressions. Always blend elements selected from {{OUTFITS}}, {{LIGHTING}}, {{OBJECTS}}, {{POSES}}, {{EXPRESSIONS}}, {{CAMERA_ANGLES}}, {{ATMOSPHERES}} and {{COLOR_REALM}} into a cohesive visual moment, prioritizing shallow depth of field, soft foreground obstructions like blossoms or beads, and a refined sense of visual intimacy. The aesthetic should evoke crystal blossom couture, where floral motifs, translucent gemstones, pearls, and delicate metallic filigree merge organically with hair and skin, illuminated by diffused, painterly light that caresses facial planes without harsh contrast. The mood must remain serene, ceremonial, and dreamlike, balancing fragility and authority, with a timeless elegance inspired by classical portraiture and contemporary fashion photography. Avoid wide scenes, dynamic action, or environmental storytelling; the focus is absolute presence, quiet intensity, and the sensation of observing a sacred figure suspended in a moment of breath and silence.",
+
+  "EPOCHS": [
+    "Timeless ceremonial present",
+    "Mythic contemporary era",
+    "Neo-baroque fantasy present"
+  ],
+
+  "OUTFITS": [
+    "Translucent couture dress embroidered with crystals",
+    "Silk and organza gown with gold filigree details",
+    "High-collar ceremonial garment with pearl inlays",
+    "Delicate fabric layers fused with gemstone chains"
+  ],
+
+  "LIGHTING": [
+    "Soft diffused key light with gentle wrap",
+    "Natural window glow filtered through blossoms",
+    "Low-contrast cinematic light with pearlescent highlights",
+    "Ambient pastel illumination with subtle bloom"
+  ],
+
+  "OBJECTS": [
+    "Crystal and pearl headdress",
+    "Dangling gemstone strands framing the face",
+    "Floral ornaments woven into hair",
+    "Fine gold chains and translucent beads"
+  ],
+
+  "POSES": [
+    "Still frontal pose with relaxed shoulders",
+    "Three-quarter angle with chin slightly lowered",
+    "Head gently tilted, gaze steady",
+    "Motionless posture emphasizing facial symmetry"
+  ],
+
+  "EXPRESSIONS": [
+    "Serene and distant gaze",
+    "Soft parted lips",
+    "Calm, introspective expression",
+    "Quiet confidence with restrained emotion"
+  ],
+
+  "CAMERA_ANGLES": [
+    "Extreme close-up centered on eyes",
+    "Tight close-up with shallow depth of field",
+    "Macro portrait framing face and headdress",
+    "Intimate eye-level perspective"
+  ],
+
+  "ATMOSPHERES": [
+    "Dreamlike and ceremonial",
+    "Soft, hushed, and intimate",
+    "Ethereal and suspended",
+    "Sacred stillness"
+  ],
+
+  "SENSUALITY_LEVEL": {
+    "0": "Purely aesthetic, focusing on facial beauty and couture detail",
+    "1": "Subtle sensuality expressed through lips, eyes, and skin texture",
+    "2": "Intimate allure conveyed by proximity, softness, and gaze",
+    "3": "Lush, magnetic sensuality through extreme closeness and tactile detail"
+  },
+
+  "HORROR_INTENSITY": {
+    "0": "No horror elements present",
+    "1": "Slight uncanny stillness",
+    "2": "Otherworldly tension beneath serenity",
+    "3": "Forbidden, ritualistic unease"
+  },
+  
+  "CUSTOM_INTRO": {
+    "0": "Extreme close-up couture portrait beneath drifting cherry blossoms, porcelain skin and glassy eyes framed by crystal-and-pearl strands, pale turquoise shimmer with muted gold filigree, soft foreground bokeh petals partially veiling the cheeks, serene ceremonial stillness and fashion-editorial precision, masterpiece, best quality, amazing quality, 4k, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, depth of field, volumetric lighting",
+    "1": "Tight macro face framing with jeweled headdress and dangling beads grazing the lashes, blush-pink floral haze and pearlescent ivory highlights, calm parted lips and restrained emotion, shallow depth of field with dreamy bloom and microcontrast on skin texture, masterpiece, best quality, amazing quality, 4k, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, depth of field, volumetric lighting",
+    "2": "Intimate eye-level close-up in a blossom corridor, translucent gems and fine chains catching diffused window glow, jade-turquoise palette with soft ivory and faint metallic gold, gentle halation and filmic softness, sacred quiet presence suspended in breath, masterpiece, best quality, amazing quality, 4k, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, depth of field, volumetric lighting",
+    "3": "Extreme close-up centered on the eyes, crystalline ornaments and pearl strands forming a curtain of light, painterly diffusion with bokeh-rich petals and subtle chromatic aberration, serene authority and couture elegance, tactile silk-and-organza details hinted at the frame edge, masterpiece, best quality, amazing quality, 4k, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, depth of field, volumetric lighting",
+    "4": "Cinematic close-up with floral headpiece and translucent beadwork, soft turquoise glow over porcelain skin, micro-expression of quiet confidence, foreground blossoms as gentle occluders, faint TK etched into a worn metal charm integrated naturally among the jewelry, masterpiece, best quality, amazing quality, 4k, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, depth of field, volumetric lighting",
+    "5": "Macro portrait with central symmetry, luminous pearlescent highlights and blush-petal fog, gold filigree and crystal strands draping along the temples, shallow DOF isolating the face, refined bloom and fine grain, dreamlike ceremonial fashion mood, masterpiece, best quality, amazing quality, 4k, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, depth of field, volumetric lighting",
+    "6": "Tight close-up three-quarter angle, jade and ice-blue tones with muted gold accents, crystal blossoms and pearl chains framing the cheeks, calm lips and distant gaze, soft diffusion and gentle vignette, editorial realism with timeless sacred elegance, masterpiece, best quality, amazing quality, 4k, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, depth of field, volumetric lighting"
+  }
+}
