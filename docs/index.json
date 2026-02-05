@@ -1,6 +1,29 @@
 {
-  "updated": "2026-02-05T19:01:59.593649Z",
+  "updated": "2026-02-05T19:50:13.560071Z",
   "items": [
+    {
+      "id": "7674da502d8a",
+      "name": "PFN_Velvet_Boudoir",
+      "file": "json/PFN_Velvet_Boudoir.json",
+      "author": "traumakom",
+      "description": "PFN_Velvet_Boudoir world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "soft",
+        "delicate",
+        "warm",
+        "very",
+        "tension",
+        "intimate",
+        "framing",
+        "elegant",
+        "color",
+        "boudoir",
+        "erotism"
+      ],
+      "preview": "previews/PFN_Velvet_Boudoir.png",
+      "updated": "2026-02-05T19:50:13.560071Z"
+    },
     {
       "id": "80cacb6518bd",
       "name": "PFN_Coquette_Memento_Nocturne",
