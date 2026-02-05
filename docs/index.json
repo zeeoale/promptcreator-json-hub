@@ -4,7 +4,7 @@
     {
       "id": "cd0a0d45fd5f",
       "name": "PFN_Cherry_Diner_1957_TK",
-      "file": "/json/PFN_Cherry_Diner_1957_TK.json",
+      "file": "json/PFN_Cherry_Diner_1957_TK.json",
       "author": "traumakom",
       "description": "PFN_Cherry_Diner_1957_TK world for PromptCreatorNode",
       "tags": [
