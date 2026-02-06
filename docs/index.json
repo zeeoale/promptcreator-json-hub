@@ -1,6 +1,30 @@
 {
-  "updated": "2026-02-06T19:02:40.856043Z",
+  "updated": "2026-02-06T19:18:05.784912Z",
   "items": [
+    {
+      "id": "02a193183070",
+      "name": "PFN_Burner_Mode",
+      "file": "json/PFN_Burner_Mode.json",
+      "author": "traumakom",
+      "description": "PFN_Burner_Mode world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "crimson",
+        "fashion",
+        "soft",
+        "shadows",
+        "tonal",
+        "resting",
+        "red",
+        "oxblood",
+        "light",
+        "jaw",
+        "red",
+        "burning"
+      ],
+      "preview": "previews/PFN_Burner_Mode.png",
+      "updated": "2026-02-06T19:18:05.784912Z"
+    },
     {
       "id": "492feebabeaa",
       "name": "PFN_Rose_Mode",
