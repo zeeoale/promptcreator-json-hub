@@ -1,6 +1,30 @@
 {
-  "updated": "2026-02-06T09:05:44.798220Z",
+  "updated": "2026-02-06T09:55:44.077107Z",
   "items": [
+    {
+      "id": "8a587fd9e25f",
+      "name": "PFN_Glacier_Mode",
+      "file": "json/PFN_Glacier_Mode.json",
+      "author": "traumakom",
+      "description": "PFN_Glacier_Mode world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "sun",
+        "sterile",
+        "soft",
+        "light",
+        "kissed",
+        "glowing",
+        "frozen",
+        "delicate",
+        "cold",
+        "blue",
+        "glacial",
+        "mode"
+      ],
+      "preview": "previews/PFN_Glacier_Mode.png",
+      "updated": "2026-02-06T09:55:44.077107Z"
+    },
     {
       "id": "3f233e9a0cc7",
       "name": "PFN_Desert_Ornament_Closeup",
