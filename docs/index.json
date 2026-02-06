@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-06T07:04:34.937576Z",
+  "updated": "2026-02-06T07:18:53.382688Z",
   "items": [
+    {
+      "id": "c5b73a080703",
+      "name": "PFN_Urban_Dark_Sovreign",
+      "file": "json/PFN_Urban_Dark_Sovreign.json",
+      "author": "traumakom",
+      "description": "PFN_Urban_Dark_Sovreign world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "stillness",
+        "soft",
+        "ritual",
+        "rendered",
+        "metallic",
+        "like",
+        "light",
+        "beneath",
+        "dark",
+        "sovreign"
+      ],
+      "preview": "previews/PFN_Urban_Dark_Sovreign.png",
+      "updated": "2026-02-06T07:18:53.382688Z"
+    },
     {
       "id": "1d3e18d8b042",
       "name": "PFN_Tokyo_Street_Style_HipHop",
