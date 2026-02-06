@@ -1,6 +1,29 @@
 {
-  "updated": "2026-02-06T08:14:43.084963Z",
+  "updated": "2026-02-06T09:05:44.798220Z",
   "items": [
+    {
+      "id": "3f233e9a0cc7",
+      "name": "PFN_Desert_Ornament_Closeup",
+      "file": "json/PFN_Desert_Ornament_Closeup.json",
+      "author": "traumakom",
+      "description": "PFN_Desert_Ornament_Closeup world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "light",
+        "worn",
+        "sun",
+        "soft",
+        "small",
+        "silver",
+        "oxidized",
+        "nomad",
+        "hazel",
+        "grain",
+        "desert"
+      ],
+      "preview": "previews/PFN_Desert_Ornament_Closeup.png",
+      "updated": "2026-02-06T09:05:44.798220Z"
+    },
     {
       "id": "d557f9e4ab56",
       "name": "PFN_Urban_Street_Angel",
