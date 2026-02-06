@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-06T09:55:44.077107Z",
+  "updated": "2026-02-06T19:02:40.856043Z",
   "items": [
+    {
+      "id": "492feebabeaa",
+      "name": "PFN_Rose_Mode",
+      "file": "json/PFN_Rose_Mode.json",
+      "author": "traumakom",
+      "description": "PFN_Rose_Mode world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "pink",
+        "shadows",
+        "soft",
+        "resting",
+        "tonal",
+        "rose",
+        "pendant",
+        "pastel",
+        "jaw",
+        "gentle"
+      ],
+      "preview": "previews/PFN_Rose_Mode.png",
+      "updated": "2026-02-06T19:02:40.856043Z"
+    },
     {
       "id": "8a587fd9e25f",
       "name": "PFN_Glacier_Mode",
