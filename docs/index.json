@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-06T07:18:53.382688Z",
+  "updated": "2026-02-06T07:37:58.276783Z",
   "items": [
+    {
+      "id": "ac60a5f46c85",
+      "name": "PFN_Urban_Fragile_Dream_EXTREME",
+      "file": "json/PFN_Urban_Fragile_Dream_EXTREME.json",
+      "author": "traumakom",
+      "description": "PFN_Urban_Fragile_Dream_EXTREME world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "tiles",
+        "soft",
+        "shadows",
+        "moisture",
+        "clinging",
+        "wide",
+        "white",
+        "fragile",
+        "urban",
+        "dream"
+      ],
+      "preview": "previews/PFN_Urban_Fragile_Dream_EXTREME.png",
+      "updated": "2026-02-06T07:37:58.276783Z"
+    },
     {
       "id": "c5b73a080703",
       "name": "PFN_Urban_Dark_Sovreign",
