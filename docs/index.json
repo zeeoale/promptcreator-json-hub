@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-07T20:24:24.150199Z",
+  "updated": "2026-02-07T22:13:47.642664Z",
   "items": [
+    {
+      "id": "462039a27e5f",
+      "name": "PFN_Velvet_Penthouse_Pool",
+      "file": "json/PFN_Velvet_Penthouse_Pool.json",
+      "author": "traumakom",
+      "description": "PFN_Velvet_Penthouse_Pool world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "water",
+        "subtle",
+        "soft",
+        "silk",
+        "pool",
+        "glow",
+        "city",
+        "catching",
+        "penthouse",
+        "velvet"
+      ],
+      "preview": "previews/PFN_Velvet_Penthouse_Pool.png",
+      "updated": "2026-02-07T22:13:47.642664Z"
+    },
     {
       "id": "4260d188e4b2",
       "name": "PFN_Velvet_Modern_Suites",
