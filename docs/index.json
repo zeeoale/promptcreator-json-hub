@@ -1,6 +1,31 @@
 {
-  "updated": "2026-02-07T22:13:47.642664Z",
+  "updated": "2026-02-08T04:46:24.649341Z",
   "items": [
+    {
+      "id": "20e12174b413",
+      "name": "PFN_Late_Night_Rides",
+      "file": "json/PFN_Late_Night_Rides.json",
+      "author": "traumakom",
+      "description": "PFN_Late_Night_Rides world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "urban",
+        "slight",
+        "shallow",
+        "reflections",
+        "like",
+        "framed",
+        "black",
+        "angle",
+        "young",
+        "metro",
+        "train",
+        "night",
+        "rides"
+      ],
+      "preview": "previews/PFN_Late_Night_Rides.png",
+      "updated": "2026-02-08T04:46:24.649341Z"
+    },
     {
       "id": "462039a27e5f",
       "name": "PFN_Velvet_Penthouse_Pool",
