@@ -1,6 +1,26 @@
 {
-  "updated": "2026-02-08T19:15:57.816047Z",
+  "updated": "2026-02-08T21:29:58.653315Z",
   "items": [
+    {
+      "id": "702da3d35419",
+      "name": "PFN_Corporate_Haute_Couture",
+      "file": "json/PFN_Corporate_Haute_Couture.json",
+      "author": "traumakom",
+      "description": "PFN_Corporate_Haute_Couture world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "subject",
+        "subtle",
+        "soft",
+        "minimalist",
+        "leather",
+        "half",
+        "gentle",
+        "camera"
+      ],
+      "preview": "previews/PFN_Corporate_Haute_Couture.png",
+      "updated": "2026-02-08T21:29:58.653315Z"
+    },
     {
       "id": "b745629f9459",
       "name": "PFN_White_Wolf_Oath",
