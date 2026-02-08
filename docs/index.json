@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-08T10:19:35.322720Z",
+  "updated": "2026-02-08T19:15:57.816047Z",
   "items": [
+    {
+      "id": "b745629f9459",
+      "name": "PFN_White_Wolf_Oath",
+      "file": "json/PFN_White_Wolf_Oath.json",
+      "author": "traumakom",
+      "description": "PFN_White_Wolf_Oath world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "wolf",
+        "pale",
+        "faint",
+        "white",
+        "vow",
+        "light",
+        "fur",
+        "catching",
+        "against",
+        "oath"
+      ],
+      "preview": "previews/PFN_White_Wolf_Oath.png",
+      "updated": "2026-02-08T19:15:57.816047Z"
+    },
     {
       "id": "cb16c69d3f62",
       "name": "PFN_Elevator_Nocturne",
