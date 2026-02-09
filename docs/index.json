@@ -1,6 +1,29 @@
 {
-  "updated": "2026-02-09T17:39:16.637068Z",
+  "updated": "2026-02-09T20:52:01.234286Z",
   "items": [
+    {
+      "id": "17280cb02374",
+      "name": "PFN_Twilight_Gaze_Extreme_CloseUp",
+      "file": "json/PFN_Twilight_Gaze_Extreme_CloseUp.json",
+      "author": "traumakom",
+      "description": "PFN_Twilight_Gaze_Extreme_CloseUp world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "soft",
+        "shadows",
+        "faint",
+        "chains",
+        "black",
+        "across",
+        "winged",
+        "wine",
+        "goth",
+        "twilight",
+        "gaze"
+      ],
+      "preview": "previews/PFN_Twilight_Gaze_Extreme_CloseUp.png",
+      "updated": "2026-02-09T20:52:01.234286Z"
+    },
     {
       "id": "032a880a4f18",
       "name": "PFN_Sunset_Beach_Noir",
