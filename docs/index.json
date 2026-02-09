@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-08T21:29:58.653315Z",
+  "updated": "2026-02-09T03:21:28.637263Z",
   "items": [
+    {
+      "id": "8a6c37c002c9",
+      "name": "PFN_Kawaii_Maledictum",
+      "file": "json/PFN_Kawaii_Maledictum.json",
+      "author": "traumakom",
+      "description": "PFN_Kawaii_Maledictum world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "subtle",
+        "soft",
+        "slightly",
+        "plushie",
+        "neon",
+        "micro",
+        "its",
+        "glowing",
+        "kawaii",
+        "maledictum"
+      ],
+      "preview": "previews/PFN_Kawaii_Maledictum.png",
+      "updated": "2026-02-09T03:21:28.637263Z"
+    },
     {
       "id": "702da3d35419",
       "name": "PFN_Corporate_Haute_Couture",
