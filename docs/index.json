@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-09T03:21:28.637263Z",
+  "updated": "2026-02-09T05:21:22.114975Z",
   "items": [
+    {
+      "id": "c0eaceef37d1",
+      "name": "PFN_Girls_and_Guns",
+      "file": "json/PFN_Girls_and_Guns.json",
+      "author": "traumakom",
+      "description": "PFN_Girls_and_Guns world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "shallow",
+        "room",
+        "lit",
+        "light",
+        "world",
+        "winged",
+        "whispers",
+        "weapon",
+        "girls",
+        "gun"
+      ],
+      "preview": "previews/PFN_Girls_and_Guns.png",
+      "updated": "2026-02-09T05:21:22.114975Z"
+    },
     {
       "id": "8a6c37c002c9",
       "name": "PFN_Kawaii_Maledictum",
