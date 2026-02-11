@@ -1,6 +1,31 @@
 {
-  "updated": "2026-02-10T23:56:16.856003Z",
+  "updated": "2026-02-11T01:00:29.670624Z",
   "items": [
+    {
+      "id": "ae38db755c28",
+      "name": "PFN_Japan_Only_Bold",
+      "file": "json/PFN_Japan_Only_Bold.json",
+      "author": "traumakom",
+      "description": "PFN_Japan_Only_Bold world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "steam",
+        "camera",
+        "warm",
+        "neon",
+        "framed",
+        "faint",
+        "crimson",
+        "black",
+        "bath",
+        "amber",
+        "japan",
+        "only",
+        "bold"
+      ],
+      "preview": "previews/PFN_Japan_Only_Bold.png",
+      "updated": "2026-02-11T01:00:29.670624Z"
+    },
     {
       "id": "6992bcfa6070",
       "name": "PFN_Corporate_Goth_Reforged",
