@@ -1,6 +1,31 @@
 {
-  "updated": "2026-02-11T21:47:54.378407Z",
+  "updated": "2026-02-11T23:35:16.038343Z",
   "items": [
+    {
+      "id": "1eb46d622b72",
+      "name": "PFN_Crimson_Sovereign_Closeup",
+      "file": "json/PFN_Crimson_Sovereign_Closeup.json",
+      "author": "traumakom",
+      "description": "PFN_Crimson_Sovereign_Closeup world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "like",
+        "light",
+        "soft",
+        "shadow",
+        "sacred",
+        "micro",
+        "golden",
+        "expression",
+        "dark",
+        "crown",
+        "crimson",
+        "sovreign",
+        "closeup"
+      ],
+      "preview": "previews/PFN_Crimson_Sovereign_Closeup.png",
+      "updated": "2026-02-11T23:35:16.038343Z"
+    },
     {
       "id": "9757347f91bc",
       "name": "PFN_Red_Dust_Rodeo_Glam",
