@@ -1,6 +1,26 @@
 {
-  "updated": "2026-02-11T02:35:43.291382Z",
+  "updated": "2026-02-11T12:01:46.241532Z",
   "items": [
+    {
+      "id": "898ebb127f39",
+      "name": "PFN_London_Beauty_Punk",
+      "file": "json/PFN_London_Beauty_Punk.json",
+      "author": "traumakom",
+      "description": "PFN_London_Beauty_Punk world for PromptCreatorNode",
+      "tags": [
+        "punk",
+        "london",
+        "layers",
+        "graffiti",
+        "black",
+        "white",
+        "walls",
+        "underground",
+        "unapologetic"
+      ],
+      "preview": "previews/PFN_London_Beauty_Punk.png",
+      "updated": "2026-02-11T12:01:46.241532Z"
+    },
     {
       "id": "2be4ed27b14b",
       "name": "PFN_Street_Style_HipHop",
