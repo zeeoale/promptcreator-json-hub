@@ -1,6 +1,31 @@
 {
-  "updated": "2026-02-11T23:35:16.038343Z",
+  "updated": "2026-02-12T00:41:17.233372Z",
   "items": [
+    {
+      "id": "ed64c5b7cfa6",
+      "name": "PFN_Obsidian_Empress_Closeup",
+      "file": "json/PFN_Obsidian_Empress_Closeup.json",
+      "author": "traumakom",
+      "description": "PFN_Obsidian_Empress_Closeup world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "gothic",
+        "upper",
+        "softly",
+        "shadows",
+        "nordic",
+        "its",
+        "frame",
+        "blurred",
+        "zit",
+        "while",
+        "obsidian",
+        "empress",
+        "close-up"
+      ],
+      "preview": "previews/PFN_Obsidian_Empress_Closeup.png",
+      "updated": "2026-02-12T00:41:17.233372Z"
+    },
     {
       "id": "1eb46d622b72",
       "name": "PFN_Crimson_Sovereign_Closeup",
