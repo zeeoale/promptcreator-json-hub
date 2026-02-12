@@ -1,6 +1,31 @@
 {
-  "updated": "2026-02-12T14:51:34.298705Z",
+  "updated": "2026-02-12T23:44:14.284799Z",
   "items": [
+    {
+      "id": "5e94c157f5ba",
+      "name": "PFN_Tokyo_Dance_Crew_Studio",
+      "file": "json/PFN_Tokyo_Dance_Crew_Studio.json",
+      "author": "traumakom",
+      "description": "PFN_Tokyo_Dance_Crew_Studio world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "tokyo",
+        "dance",
+        "crew",
+        "blue",
+        "while",
+        "through",
+        "synchronized",
+        "studio",
+        "soft",
+        "shadows",
+        "midnight",
+        "light",
+        "inspired"
+      ],
+      "preview": "previews/PFN_Tokyo_Dance_Crew_Studio.png",
+      "updated": "2026-02-12T23:44:14.284799Z"
+    },
     {
       "id": "547fd105ab05",
       "name": "PFN_Luminaria_Icon",
