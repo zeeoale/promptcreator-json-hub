@@ -1,6 +1,30 @@
 {
-  "updated": "2026-02-12T13:57:34.258781Z",
+  "updated": "2026-02-12T14:51:34.298705Z",
   "items": [
+    {
+      "id": "547fd105ab05",
+      "name": "PFN_Luminaria_Icon",
+      "file": "json/PFN_Luminaria_Icon.json",
+      "author": "traumakom",
+      "description": "PFN_Luminaria_Icon world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "luminaria",
+        "icon",
+        "soft",
+        "minimal",
+        "light",
+        "luminous",
+        "controlled",
+        "white",
+        "very",
+        "strong",
+        "straight",
+        "sculptural"
+      ],
+      "preview": "previews/PFN_Luminaria_Icon.png",
+      "updated": "2026-02-12T14:51:34.298705Z"
+    },
     {
       "id": "46adca16368c",
       "name": "PFN_Obscura_Icon",
