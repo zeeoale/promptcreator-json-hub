@@ -1,6 +1,31 @@
 {
-  "updated": "2026-02-12T00:41:17.233372Z",
+  "updated": "2026-02-12T01:37:56.244490Z",
   "items": [
+    {
+      "id": "5b7921ab9814",
+      "name": "PFN_Ivory_Muse_Closeup",
+      "file": "json/PFN_Ivory_Muse_Closeup.json",
+      "author": "traumakom",
+      "description": "PFN_Ivory_Muse_Closeup world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "ivory",
+        "muse",
+        "close-up",
+        "softly",
+        "white",
+        "subtle",
+        "soft",
+        "nordic",
+        "micro",
+        "luminous",
+        "light",
+        "jawline",
+        "frame"
+      ],
+      "preview": "previews/PFN_Ivory_Muse_Closeup.png",
+      "updated": "2026-02-12T01:37:56.244490Z"
+    },
     {
       "id": "ed64c5b7cfa6",
       "name": "PFN_Obsidian_Empress_Closeup",
