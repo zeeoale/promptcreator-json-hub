@@ -1,6 +1,27 @@
 {
-  "updated": "2026-02-12T04:24:07.473305Z",
+  "updated": "2026-02-12T13:57:34.258781Z",
   "items": [
+    {
+      "id": "46adca16368c",
+      "name": "PFN_Obscura_Icon",
+      "file": "json/PFN_Obscura_Icon.json",
+      "author": "traumakom",
+      "description": "PFN_Obscura_Icon world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "black",
+        "subtle",
+        "subject",
+        "rendered",
+        "matte",
+        "while",
+        "void",
+        "top",
+        "symmetry"
+      ],
+      "preview": "previews/PFN_Obscura_Icon.png",
+      "updated": "2026-02-12T13:57:34.258781Z"
+    },
     {
       "id": "a4b9c6eea8a6",
       "name": "PFN_Latex_Oriented",
