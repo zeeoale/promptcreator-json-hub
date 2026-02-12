@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-12T01:37:56.244490Z",
+  "updated": "2026-02-12T04:24:07.473305Z",
   "items": [
+    {
+      "id": "a4b9c6eea8a6",
+      "name": "PFN_Latex_Oriented",
+      "file": "json/PFN_Latex_Oriented.json",
+      "author": "traumakom",
+      "description": "PFN_Latex_Oriented world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "latex",
+        "black",
+        "shadows",
+        "patent",
+        "while",
+        "tension",
+        "studio",
+        "noir",
+        "lens",
+        "lean"
+      ],
+      "preview": "previews/PFN_Latex_Oriented.png",
+      "updated": "2026-02-12T04:24:07.473305Z"
+    },
     {
       "id": "5b7921ab9814",
       "name": "PFN_Ivory_Muse_Closeup",
