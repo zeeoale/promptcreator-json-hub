@@ -1,6 +1,30 @@
 {
-  "updated": "2026-02-13T12:48:19.351211Z",
+  "updated": "2026-02-13T19:38:02.893014Z",
   "items": [
+    {
+      "id": "54a1c8bfcbec",
+      "name": "PFN_Crimson_Floral_Icon",
+      "file": "json/PFN_Crimson_Floral_Icon.json",
+      "author": "traumakom",
+      "description": "PFN_Crimson_Floral_Icon world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "crimson",
+        "florarl",
+        "icon",
+        "gold",
+        "veil",
+        "soft",
+        "shadow",
+        "deep",
+        "antique",
+        "veiled",
+        "tones",
+        "rendered"
+      ],
+      "preview": "previews/PFN_Crimson_Floral_Icon.png",
+      "updated": "2026-02-13T19:38:02.893014Z"
+    },
     {
       "id": "3c9e47a0012c",
       "name": "PFN_Flower_Beauty",
