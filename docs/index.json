@@ -1,6 +1,29 @@
 {
-  "updated": "2026-02-13T21:00:03.101903Z",
+  "updated": "2026-02-13T22:37:48.349814Z",
   "items": [
+    {
+      "id": "34bd288d1820",
+      "name": "PFN_Sacred_Summer_Silence_Night",
+      "file": "json/PFN_Sacred_Summer_Silence_Night.json",
+      "author": "traumakom",
+      "description": "PFN_Sacred_Summer_Silence_Night world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "sacred",
+        "summer",
+        "silence",
+        "night",
+        "warm",
+        "quiet",
+        "loose",
+        "framed",
+        "woven",
+        "wind",
+        "wildflowers"
+      ],
+      "preview": "previews/PFN_Sacred_Summer_Silence_Night.png",
+      "updated": "2026-02-13T22:37:48.349814Z"
+    },
     {
       "id": "871a42c2f901",
       "name": "PFN_Sacred_Summer_Silence",
