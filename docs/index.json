@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-12T23:44:14.284799Z",
+  "updated": "2026-02-13T12:48:19.351211Z",
   "items": [
+    {
+      "id": "3c9e47a0012c",
+      "name": "PFN_Flower_Beauty",
+      "file": "json/PFN_Flower_Beauty.json",
+      "author": "traumakom",
+      "description": "PFN_Flower_Beauty world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Flower",
+        "Beauty",
+        "subtle",
+        "petals",
+        "pale",
+        "painterly",
+        "glow",
+        "faint",
+        "controlled",
+        "cheekbones"
+      ],
+      "preview": "previews/PFN_Flower_Beauty.png",
+      "updated": "2026-02-13T12:48:19.351211Z"
+    },
     {
       "id": "5e94c157f5ba",
       "name": "PFN_Tokyo_Dance_Crew_Studio",
