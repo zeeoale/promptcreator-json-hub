@@ -1,6 +1,27 @@
 {
-  "updated": "2026-02-13T19:38:02.893014Z",
+  "updated": "2026-02-13T21:00:03.101903Z",
   "items": [
+    {
+      "id": "871a42c2f901",
+      "name": "PFN_Sacred_Summer_Silence",
+      "file": "json/PFN_Sacred_Summer_Silence.json",
+      "author": "traumakom",
+      "description": "PFN_Sacred_Summer_Silence world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "sacred",
+        "summer",
+        "silence",
+        "stillness",
+        "light",
+        "wreath",
+        "wooden",
+        "wind",
+        "wildflowers"
+      ],
+      "preview": "previews/PFN_Sacred_Summer_Silence.png",
+      "updated": "2026-02-13T21:00:03.101903Z"
+    },
     {
       "id": "54a1c8bfcbec",
       "name": "PFN_Crimson_Floral_Icon",
