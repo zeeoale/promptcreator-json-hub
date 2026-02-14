@@ -1,6 +1,27 @@
 {
-  "updated": "2026-02-13T22:37:48.349814Z",
+  "updated": "2026-02-14T00:56:05.028765Z",
   "items": [
+    {
+      "id": "d9537d1ff672",
+      "name": "PFN_Bio_Baroque_Corrupted",
+      "file": "json/PFN_Bio_Baroque_Corrupted.json",
+      "author": "traumakom",
+      "description": "PFN_Bio_Baroque_Corrupted world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "bio",
+        "baroque",
+        "corrupted",
+        "matte",
+        "undertones",
+        "subdermal",
+        "studio",
+        "sheen",
+        "faint"
+      ],
+      "preview": "previews/PFN_Bio_Baroque_Corrupted.png",
+      "updated": "2026-02-14T00:56:05.028765Z"
+    },
     {
       "id": "34bd288d1820",
       "name": "PFN_Sacred_Summer_Silence_Night",
