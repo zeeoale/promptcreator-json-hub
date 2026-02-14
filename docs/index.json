@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-14T00:56:05.028765Z",
+  "updated": "2026-02-14T16:27:53.784136Z",
   "items": [
+    {
+      "id": "dbbd68bee9f8",
+      "name": "PFN_Infernal_Sovereign",
+      "file": "json/PFN_Infernal_Sovereign.json",
+      "author": "traumakom",
+      "description": "PFN_Infernal_Sovereign world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "infernal",
+        "sovereign",
+        "textured",
+        "subtle",
+        "stone",
+        "sovereign",
+        "silhouette",
+        "sacred",
+        "rendered",
+        "monumental"
+      ],
+      "preview": "previews/PFN_Infernal_Sovereign.png",
+      "updated": "2026-02-14T16:27:53.784136Z"
+    },
     {
       "id": "d9537d1ff672",
       "name": "PFN_Bio_Baroque_Corrupted",
