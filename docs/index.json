@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-15T01:10:35.626622Z",
+  "updated": "2026-02-15T04:21:48.379627Z",
   "items": [
+    {
+      "id": "d2bf8882f9ad",
+      "name": "PFN_Butterfly_Black_Veil",
+      "file": "json/PFN_Butterfly_Black_Veil.json",
+      "author": "traumakom",
+      "description": "PFN_Butterfly_Black_Veil world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Butterfly",
+        "Black",
+        "veil",
+        "soft",
+        "faint",
+        "wings",
+        "veil",
+        "thick",
+        "subtle",
+        "smooth"
+      ],
+      "preview": "previews/PFN_Butterfly_Black_Veil.png",
+      "updated": "2026-02-15T04:21:48.379627Z"
+    },
     {
       "id": "07311c5ec9ad",
       "name": "PFN_Bone_Garden",
