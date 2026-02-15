@@ -1,6 +1,26 @@
 {
-  "updated": "2026-02-15T16:13:34.470690Z",
+  "updated": "2026-02-15T17:29:55.031391Z",
   "items": [
+    {
+      "id": "414f4dbe1ffd",
+      "name": "PFN_Biomech_Goth_Siren",
+      "file": "json/PFN_Biomech_Goth_Siren.json",
+      "author": "traumakom",
+      "description": "PFN_Biomech_Goth_Siren world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "gothic",
+        "silhouette",
+        "controlled",
+        "heavy",
+        "contrast",
+        "carbon",
+        "black",
+        "waterline"
+      ],
+      "preview": "previews/PFN_Biomech_Goth_Siren.png",
+      "updated": "2026-02-15T17:29:55.031391Z"
+    },
     {
       "id": "03b28bdd4720",
       "name": "PFN_Butterfly_Yellow_Veil",
