@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-15T05:02:46.960375Z",
+  "updated": "2026-02-15T05:32:48.906368Z",
   "items": [
+    {
+      "id": "c13cf5e8e411",
+      "name": "PFN_Butterfly_Green_Veil",
+      "file": "json/PFN_Butterfly_Green_Veil.json",
+      "author": "traumakom",
+      "description": "PFN_Butterfly_Green_Veil world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Butterfly",
+        "green",
+        "veil",
+        "soft",
+        "faint",
+        "wings",
+        "veil",
+        "thick",
+        "subtle",
+        "smooth"
+      ],
+      "preview": "previews/PFN_Butterfly_Green_Veil.png",
+      "updated": "2026-02-15T05:32:48.906368Z"
+    },
     {
       "id": "42755a72baf9",
       "name": "PFN_Butterfly_Blue_Veil",
