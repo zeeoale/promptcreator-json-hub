@@ -1,6 +1,25 @@
 {
-  "updated": "2026-02-14T19:51:19.729744Z",
+  "updated": "2026-02-15T01:10:35.626622Z",
   "items": [
+    {
+      "id": "07311c5ec9ad",
+      "name": "PFN_Bone_Garden",
+      "file": "json/PFN_Bone_Garden.json",
+      "author": "traumakom",
+      "description": "PFN_Bone_Garden world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "bone",
+        "garden",
+        "tension",
+        "tableau",
+        "soft",
+        "smooth",
+        "skull"
+      ],
+      "preview": "previews/PFN_Bone_Garden.png",
+      "updated": "2026-02-15T01:10:35.626622Z"
+    },
     {
       "id": "745506a99e42",
       "name": "PFN_Underground_Night_Run",
