@@ -1,6 +1,32 @@
 {
-  "updated": "2026-02-15T21:44:34.973926Z",
+  "updated": "2026-02-15T22:52:31.131514Z",
   "items": [
+    {
+      "id": "6d6c3f663aaf",
+      "name": "PFN_Japan_Neo_Scarlet_CloseUp",
+      "file": "json/PFN_Japan_Neo_Scarlet_CloseUp.json",
+      "author": "traumakom",
+      "description": "PFN_Japan_Neo_Scarlet_CloseUp world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "japan",
+        "neo",
+        "scarlet",
+        "close-up",
+        "red",
+        "modern",
+        "golden",
+        "warm",
+        "undertone",
+        "straight",
+        "shadows",
+        "restrained",
+        "oppressive",
+        "neon"
+      ],
+      "preview": "previews/PFN_Japan_Neo_Scarlet_CloseUp.png",
+      "updated": "2026-02-15T22:52:31.131514Z"
+    },
     {
       "id": "6bd026185323",
       "name": "PFN_Only_Japan_Close",
