@@ -1,6 +1,29 @@
 {
-  "updated": "2026-02-15T17:29:55.031391Z",
+  "updated": "2026-02-15T17:53:35.349495Z",
   "items": [
+    {
+      "id": "8d04b3457c56",
+      "name": "PFN_NeoNoir_RainCore",
+      "file": "json/PFN_NeoNoir_RainCore.json",
+      "author": "traumakom",
+      "description": "PFN_NeoNoir_RainCore world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "NeoNoir",
+        "restrained",
+        "framing",
+        "contrast",
+        "straight",
+        "slightly",
+        "rain",
+        "noir",
+        "light",
+        "highlights",
+        "gothic"
+      ],
+      "preview": "previews/PFN_NeoNoir_RainCore.png",
+      "updated": "2026-02-15T17:53:35.349495Z"
+    },
     {
       "id": "414f4dbe1ffd",
       "name": "PFN_Biomech_Goth_Siren",
