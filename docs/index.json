@@ -1,6 +1,30 @@
 {
-  "updated": "2026-02-15T17:53:35.349495Z",
+  "updated": "2026-02-15T20:05:48.427450Z",
   "items": [
+    {
+      "id": "dc584d4b5527",
+      "name": "PFN_Only_Japan",
+      "file": "json/PFN_Only_Japan.json",
+      "author": "traumakom",
+      "description": "PFN_Only_Japan world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "only",
+        "japan",
+        "quiet",
+        "silhouette",
+        "shaped",
+        "restrained",
+        "moment",
+        "modern",
+        "grounded",
+        "contrast",
+        "yukata",
+        "wooden"
+      ],
+      "preview": "previews/PFN_Only_Japan.png",
+      "updated": "2026-02-15T20:05:48.427450Z"
+    },
     {
       "id": "8d04b3457c56",
       "name": "PFN_NeoNoir_RainCore",
