@@ -1,6 +1,31 @@
 {
-  "updated": "2026-02-15T20:05:48.427450Z",
+  "updated": "2026-02-15T21:44:34.973926Z",
   "items": [
+    {
+      "id": "6bd026185323",
+      "name": "PFN_Only_Japan_Close",
+      "file": "json/PFN_Only_Japan_Close.json",
+      "author": "traumakom",
+      "description": "PFN_Only_Japan_Close world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "only",
+        "japan",
+        "close-up",
+        "quiet",
+        "silhouette",
+        "shaped",
+        "restrained",
+        "moment",
+        "modern",
+        "grounded",
+        "contrast",
+        "yukata",
+        "wooden"
+      ],
+      "preview": "previews/PFN_Only_Japan_Close.png",
+      "updated": "2026-02-15T21:44:34.973926Z"
+    },
     {
       "id": "dc584d4b5527",
       "name": "PFN_Only_Japan",
