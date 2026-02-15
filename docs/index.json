@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-15T05:58:41.366047Z",
+  "updated": "2026-02-15T15:45:21.535908Z",
   "items": [
+    {
+      "id": "ea5c9afd3c2f",
+      "name": "PFN_Butterfly_White_Veil",
+      "file": "json/PFN_Butterfly_White_Veil.json",
+      "author": "traumakom",
+      "description": "PFN_Butterfly_White_Veil world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Butterfly",
+        "white",
+        "veil",
+        "soft",
+        "faint",
+        "wings",
+        "veil",
+        "thick",
+        "subtle",
+        "smooth"
+      ],
+      "preview": "previews/PFN_Butterfly_White_Veil.png",
+      "updated": "2026-02-15T15:45:21.535908Z"
+    },
     {
       "id": "e78d3253ece4",
       "name": "PFN_Butterfly_Red_Veil",
