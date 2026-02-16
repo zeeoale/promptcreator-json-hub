@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-15T22:52:31.131514Z",
+  "updated": "2026-02-16T04:03:42.273041Z",
   "items": [
+    {
+      "id": "31c9f3fdf7a5",
+      "name": "PFN_Feline_Whisper_Closeup",
+      "file": "json/PFN_Feline_Whisper_Closeup.json",
+      "author": "traumakom",
+      "description": "PFN_Feline_Whisper_Closeup world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Feline",
+        "Whisper",
+        "quiet",
+        "faint",
+        "texture",
+        "tactile",
+        "suspended",
+        "subtle",
+        "restrained",
+        "rendered"
+      ],
+      "preview": "previews/PFN_Feline_Whisper_Closeup.png",
+      "updated": "2026-02-16T04:03:42.273041Z"
+    },
     {
       "id": "6d6c3f663aaf",
       "name": "PFN_Japan_Neo_Scarlet_CloseUp",
