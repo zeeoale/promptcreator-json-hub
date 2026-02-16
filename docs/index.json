@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-16T04:03:42.273041Z",
+  "updated": "2026-02-16T11:45:42.248411Z",
   "items": [
+    {
+      "id": "737ce9e0393c",
+      "name": "PFN_Train_Melancholia_Rain",
+      "file": "json/PFN_Train_Melancholia_Rain.json",
+      "author": "traumakom",
+      "description": "PFN_Train_Melancholia_Rain world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "train",
+        "melacholia",
+        "motion",
+        "window",
+        "texture",
+        "warm",
+        "streaks",
+        "shadows",
+        "scene",
+        "natural"
+      ],
+      "preview": "previews/PFN_Train_Melancholia_Rain.png",
+      "updated": "2026-02-16T11:45:42.248411Z"
+    },
     {
       "id": "31c9f3fdf7a5",
       "name": "PFN_Feline_Whisper_Closeup",
