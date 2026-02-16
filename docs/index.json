@@ -1,6 +1,30 @@
 {
-  "updated": "2026-02-16T22:16:59.337582Z",
+  "updated": "2026-02-16T22:21:17.347911Z",
   "items": [
+    {
+      "id": "e04b5afd6b75",
+      "name": "PFN_Void_Mode",
+      "file": "json/PFN_Void_Mode.json",
+      "author": "traumakom",
+      "description": "PFN_Void_Mode world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "void",
+        "mode",
+        "tblack",
+        "subtle",
+        "shadow",
+        "glossy",
+        "charcoal",
+        "silhouette",
+        "restrained",
+        "monochrome",
+        "highlights",
+        "deep"
+      ],
+      "preview": "previews/PFN_Void_Mode.png",
+      "updated": "2026-02-16T22:21:17.347911Z"
+    },
     {
       "id": "737ce9e0393c",
       "name": "PFN_Train_Melancholia_Rain",
