@@ -1,6 +1,30 @@
 {
-  "updated": "2026-02-17T10:45:18.581378Z",
+  "updated": "2026-02-17T13:56:15.747637Z",
   "items": [
+    {
+      "id": "07f873832b6c",
+      "name": "PFN_Monolith_Mode",
+      "file": "json/PFN_Monolith_Mode.json",
+      "author": "traumakom",
+      "description": "PFN_Monolith_Mode world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "monolith",
+        "mode",
+        "muted",
+        "minimal",
+        "stone",
+        "space",
+        "silhouette",
+        "shadow",
+        "restrained",
+        "rendered",
+        "matte",
+        "intensity"
+      ],
+      "preview": "previews/PFN_Monolith_Mode.png",
+      "updated": "2026-02-17T13:56:15.747637Z"
+    },
     {
       "id": "1a7f7b258806",
       "name": "PFN_Void_Latex_Mode",
