@@ -1,6 +1,32 @@
 {
-  "updated": "2026-02-16T22:21:17.347911Z",
+  "updated": "2026-02-17T10:45:18.581378Z",
   "items": [
+    {
+      "id": "1a7f7b258806",
+      "name": "PFN_Void_Latex_Mode",
+      "file": "json/PFN_Void_Latex_Mode.json",
+      "author": "traumakom",
+      "description": "PFN_Void_Latex_Mode world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "void",
+        "mode",
+        "specular",
+        "glossy",
+        "black",
+        "soft",
+        "light",
+        "top",
+        "tension",
+        "studio",
+        "straight",
+        "silence",
+        "rigid",
+        "obsidian"
+      ],
+      "preview": "previews/PFN_Void_Latex_Mode.png",
+      "updated": "2026-02-17T10:45:18.581378Z"
+    },
     {
       "id": "e04b5afd6b75",
       "name": "PFN_Void_Mode",
