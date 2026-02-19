@@ -1,6 +1,31 @@
 {
-  "updated": "2026-02-17T14:41:53.922543Z",
+  "updated": "2026-02-19T01:29:11.989357Z",
   "items": [
+    {
+      "id": "4dfc989a699b",
+      "name": "PFN_Void_Mode_V2",
+      "file": "json/PFN_Void_Mode_V2.json",
+      "author": "traumakom",
+      "description": "PFN_Void_Mode_V2 world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "void",
+        "mode",
+        "V2",
+        "tblack",
+        "subtle",
+        "shadow",
+        "glossy",
+        "charcoal",
+        "silhouette",
+        "restrained",
+        "monochrome",
+        "highlights",
+        "deep"
+      ],
+      "preview": "previews/PFN_Void_Mode_V2.png",
+      "updated": "2026-02-19T01:29:11.989357Z"
+    },
     {
       "id": "9a1fce3e47d8",
       "name": "PFN_Liminal_Space_Mode",
