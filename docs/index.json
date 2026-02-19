@@ -1,6 +1,31 @@
 {
-  "updated": "2026-02-19T17:20:16.702424Z",
+  "updated": "2026-02-19T19:28:51.282212Z",
   "items": [
+    {
+      "id": "91e2c927078f",
+      "name": "PFN_Green_Decay",
+      "file": "json/PFN_Green_Decay.json",
+      "author": "traumakom",
+      "description": "PFN_Green_Decay world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "green",
+        "decay",
+        "matte",
+        "concrete",
+        "artificial",
+        "velvet",
+        "tension",
+        "stone",
+        "steady",
+        "restrained",
+        "panels",
+        "olive",
+        "metal"
+      ],
+      "preview": "previews/PFN_Green_Decay.png",
+      "updated": "2026-02-19T19:28:51.282212Z"
+    },
     {
       "id": "151c48c223c6",
       "name": "PFN_Purple_Haze_Mode",
