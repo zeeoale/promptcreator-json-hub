@@ -1,6 +1,29 @@
 {
-  "updated": "2026-02-19T19:28:51.282212Z",
+  "updated": "2026-02-19T22:55:06.756894Z",
   "items": [
+    {
+      "id": "503917b01a31",
+      "name": "PFN_Red_Decay",
+      "file": "json/PFN_Red_Decay.json",
+      "author": "traumakom",
+      "description": "PFN_Red_Decay world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "red",
+        "decay",
+        "leaf",
+        "burgundy",
+        "black",
+        "warm",
+        "soft",
+        "single",
+        "oxidized",
+        "micro",
+        "matte"
+      ],
+      "preview": "previews/PFN_Red_Decay.png",
+      "updated": "2026-02-19T22:55:06.756894Z"
+    },
     {
       "id": "91e2c927078f",
       "name": "PFN_Green_Decay",
