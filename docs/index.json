@@ -1,6 +1,31 @@
 {
-  "updated": "2026-02-19T01:29:11.989357Z",
+  "updated": "2026-02-19T17:20:16.702424Z",
   "items": [
+    {
+      "id": "151c48c223c6",
+      "name": "PFN_Purple_Haze_Mode",
+      "file": "json/PFN_Purple_Haze_Mode.json",
+      "author": "traumakom",
+      "description": "PFN_Purple_Haze_Mode world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "purple",
+        "haze",
+        "lavender",
+        "velvet",
+        "tension",
+        "studio",
+        "restraint",
+        "prismatic",
+        "plum",
+        "minimal",
+        "light",
+        "gentle",
+        "faint"
+      ],
+      "preview": "previews/PFN_Purple_Haze_Mode.png",
+      "updated": "2026-02-19T17:20:16.702424Z"
+    },
     {
       "id": "4dfc989a699b",
       "name": "PFN_Void_Mode_V2",
