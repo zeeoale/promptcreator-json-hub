@@ -1,6 +1,30 @@
 {
-  "updated": "2026-02-19T22:55:06.756894Z",
+  "updated": "2026-02-20T10:20:09.359040Z",
   "items": [
+    {
+      "id": "5c4ed2e34c96",
+      "name": "PFN_Void_Decay",
+      "file": "json/PFN_Void_Decay.json",
+      "author": "traumakom",
+      "description": "PFN_Void_Decay world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "black",
+        "void",
+        "matte",
+        "beneath",
+        "tension",
+        "subtle",
+        "structured",
+        "space",
+        "soft",
+        "shadow",
+        "sealed",
+        "restrained"
+      ],
+      "preview": "previews/PFN_Void_Decay.png",
+      "updated": "2026-02-20T10:20:09.359040Z"
+    },
     {
       "id": "503917b01a31",
       "name": "PFN_Red_Decay",
