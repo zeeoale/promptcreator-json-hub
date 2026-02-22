@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-20T22:58:56.602155Z",
+  "updated": "2026-02-22T16:46:43.820531Z",
   "items": [
+    {
+      "id": "e146d0fbdefd",
+      "name": "PFN_Forest_Melancholy",
+      "file": "json/PFN_Forest_Melancholy.json",
+      "author": "traumakom",
+      "description": "PFN_Forest_Melancholy world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Forest",
+        "Melancholy",
+        "trees",
+        "quiet",
+        "pale",
+        "natural",
+        "moss",
+        "gaze",
+        "framed",
+        "ancient"
+      ],
+      "preview": "previews/PFN_Forest_Melancholy.png",
+      "updated": "2026-02-22T16:46:43.820531Z"
+    },
     {
       "id": "04d6c7ef8700",
       "name": "PFN_Sensual_Void",
