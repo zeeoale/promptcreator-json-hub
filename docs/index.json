@@ -1,6 +1,27 @@
 {
-  "updated": "2026-02-22T22:23:36.201651Z",
+  "updated": "2026-02-22T23:33:42.807823Z",
   "items": [
+    {
+      "id": "4fb61636d8e2",
+      "name": "PFN_TK_Cathedral_Of_Void",
+      "file": "json/PFN_TK_Cathedral_Of_Void.json",
+      "author": "traumakom",
+      "description": "PFN_TK_Cathedral_Of_Void world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "cathedral",
+        "void",
+        "tension",
+        "vibrational",
+        "vibration",
+        "solemn",
+        "silhouette",
+        "shadows",
+        "sacred"
+      ],
+      "preview": "previews/PFN_TK_Cathedral_Of_Void.png",
+      "updated": "2026-02-22T23:33:42.807823Z"
+    },
     {
       "id": "bbcdada36e8c",
       "name": "PFN_Gamer_Girls_Console",
