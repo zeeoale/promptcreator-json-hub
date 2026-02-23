@@ -1,6 +1,28 @@
 {
-  "updated": "2026-02-22T23:33:42.807823Z",
+  "updated": "2026-02-23T22:23:26.197283Z",
   "items": [
+    {
+      "id": "81914c801aa3",
+      "name": "PFN_Celestial_Tide",
+      "file": "json/PFN_Celestial_Tide.json",
+      "author": "traumakom",
+      "description": "PFN_Celestial_Tide world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "celestial",
+        "tides",
+        "ethereal",
+        "soft",
+        "serene",
+        "ocean",
+        "glowing",
+        "environment",
+        "ancient",
+        "wisdom"
+      ],
+      "preview": "previews/PFN_Celestial_Tide.png",
+      "updated": "2026-02-23T22:23:26.197283Z"
+    },
     {
       "id": "4fb61636d8e2",
       "name": "PFN_TK_Cathedral_Of_Void",
