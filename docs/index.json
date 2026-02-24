@@ -1,6 +1,32 @@
 {
-  "updated": "2026-02-24T01:48:07.892199Z",
+  "updated": "2026-02-24T22:09:30.040397Z",
   "items": [
+    {
+      "id": "bf8ffa072956",
+      "name": "PFN_Bio_Baroque_Luminescent_V2",
+      "file": "json/PFN_Bio_Baroque_Luminescent_V2.json",
+      "author": "traumakom",
+      "description": "PFN_Bio_Baroque_Luminescent_V2 world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "bio",
+        "baroque",
+        "luminescent",
+        "v2",
+        "suspended",
+        "strand",
+        "soft",
+        "like",
+        "light",
+        "icy",
+        "framing",
+        "crystalline",
+        "blue",
+        "bioluminescent"
+      ],
+      "preview": "previews/PFN_Bio_Baroque_Luminescent_V2.png",
+      "updated": "2026-02-24T22:09:30.040397Z"
+    },
     {
       "id": "5c6bafbca6ee",
       "name": "PFN_Primordial_Creation",
