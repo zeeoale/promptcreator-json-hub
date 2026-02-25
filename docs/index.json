@@ -1,6 +1,30 @@
 {
-  "updated": "2026-02-24T22:09:30.040397Z",
+  "updated": "2026-02-25T21:47:31.115791Z",
   "items": [
+    {
+      "id": "aa5ca4398088",
+      "name": "PFN_Neon_Ruin_Seraph",
+      "file": "json/PFN_Neon_Ruin_Seraph.json",
+      "author": "traumakom",
+      "description": "PFN_Neon_Ruin_Seraph world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Neon",
+        "Ruin",
+        "Sereaph",
+        "tension",
+        "urban",
+        "three",
+        "straight",
+        "quarter",
+        "merges",
+        "green",
+        "framing",
+        "exposed"
+      ],
+      "preview": "previews/PFN_Neon_Ruin_Seraph.png",
+      "updated": "2026-02-25T21:47:31.115791Z"
+    },
     {
       "id": "bf8ffa072956",
       "name": "PFN_Bio_Baroque_Luminescent_V2",
