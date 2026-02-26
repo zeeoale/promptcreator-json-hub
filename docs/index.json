@@ -1,6 +1,27 @@
 {
-  "updated": "2026-02-25T21:47:31.115791Z",
+  "updated": "2026-02-26T12:47:50.140242Z",
   "items": [
+    {
+      "id": "debda3da35cb",
+      "name": "PFN_Neo_Organic_Requiem",
+      "file": "json/PFN_Neo_Organic_Requiem.json",
+      "author": "traumakom",
+      "description": "PFN_Neo_Organic_Requiem world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Neo",
+        "Organic",
+        "Requiem",
+        "world",
+        "sacred",
+        "texture",
+        "techno",
+        "ruins",
+        "ritualistic"
+      ],
+      "preview": "previews/PFN_Neo_Organic_Requiem.png",
+      "updated": "2026-02-26T12:47:50.140242Z"
+    },
     {
       "id": "aa5ca4398088",
       "name": "PFN_Neon_Ruin_Seraph",
