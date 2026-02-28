@@ -1,6 +1,24 @@
 {
-  "updated": "2026-02-28T16:41:50.615654Z",
+  "updated": "2026-02-28T17:44:42.282971Z",
   "items": [
+    {
+      "id": "825f51c4da37",
+      "name": "PFN_Biohazard_Requiem",
+      "file": "json/PFN_Biohazard_Requiem.json",
+      "author": "traumakom",
+      "description": "PFN_Biohazard_Requiem world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Biohazard",
+        "Requiem",
+        "survival",
+        "horror",
+        "has",
+        "hardened"
+      ],
+      "preview": "previews/PFN_Biohazard_Requiem.png",
+      "updated": "2026-02-28T17:44:42.282971Z"
+    },
     {
       "id": "47aafcc8ad2d",
       "name": "PFN_SciFi_Melancholy",
