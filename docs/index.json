@@ -1,6 +1,25 @@
 {
-  "updated": "2026-02-28T01:47:04.851825Z",
+  "updated": "2026-02-28T16:41:50.615654Z",
   "items": [
+    {
+      "id": "47aafcc8ad2d",
+      "name": "PFN_SciFi_Melancholy",
+      "file": "json/PFN_SciFi_Melancholy.json",
+      "author": "traumakom",
+      "description": "PFN_SciFi_Melancholy world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "SciFi",
+        "Melancholy",
+        "world",
+        "synthetic",
+        "serene",
+        "holographic",
+        "etched"
+      ],
+      "preview": "previews/PFN_SciFi_Melancholy.png",
+      "updated": "2026-02-28T16:41:50.615654Z"
+    },
     {
       "id": "581be0108f8f",
       "name": "PFN_Astonished_Origin",
