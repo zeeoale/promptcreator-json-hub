@@ -1,6 +1,27 @@
 {
-  "updated": "2026-03-04T10:00:26.704774Z",
+  "updated": "2026-03-05T09:06:51.965768Z",
   "items": [
+    {
+      "id": "89bbb57d4f06",
+      "name": "PFN_Chiaroscuro_Closeup",
+      "file": "json/PFN_Chiaroscuro_Closeup.json",
+      "author": "traumakom",
+      "description": "PFN_Chiaroscuro_Closeup world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Chiaroscuro",
+        "Closeup",
+        "light",
+        "editorial",
+        "dramatic",
+        "studio",
+        "shadow",
+        "photography",
+        "minimalist"
+      ],
+      "preview": "previews/PFN_Chiaroscuro_Closeup.png",
+      "updated": "2026-03-05T09:06:51.965768Z"
+    },
     {
       "id": "e18c0e530763",
       "name": "PFN_Reflected_Night",
