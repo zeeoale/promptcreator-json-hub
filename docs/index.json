@@ -1,6 +1,26 @@
 {
-  "updated": "2026-03-10T12:59:58.289678Z",
+  "updated": "2026-03-10T23:27:26.603152Z",
   "items": [
+    {
+      "id": "de640033a6c3",
+      "name": "PFN_Urban_Goth_Feline",
+      "file": "json/PFN_Urban_Goth_Feline.json",
+      "author": "traumakom",
+      "description": "PFN_Urban_Goth_Feline world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Urban",
+        "Goth",
+        "Feline",
+        "dark",
+        "gothic",
+        "seductive",
+        "ornate",
+        "mystique"
+      ],
+      "preview": "previews/PFN_Urban_Goth_Feline.png",
+      "updated": "2026-03-10T23:27:26.603152Z"
+    },
     {
       "id": "f60bb219f7c1",
       "name": "PFN_Velvet_Nocturne",
