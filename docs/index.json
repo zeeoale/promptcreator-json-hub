@@ -1,6 +1,26 @@
 {
-  "updated": "2026-03-09T20:14:48.537547Z",
+  "updated": "2026-03-10T12:59:58.289678Z",
   "items": [
+    {
+      "id": "f60bb219f7c1",
+      "name": "PFN_Velvet_Nocturne",
+      "file": "json/PFN_Velvet_Nocturne.json",
+      "author": "traumakom",
+      "description": "PFN_Velvet_Nocturne world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Velvet",
+        "Nocturne",
+        "aristocratic",
+        "gothic",
+        "tension",
+        "baroque",
+        "timeless",
+        "textures"
+      ],
+      "preview": "previews/PFN_Velvet_Nocturne.png",
+      "updated": "2026-03-10T12:59:58.289678Z"
+    },
     {
       "id": "13d9a238bc3a",
       "name": "PFN_Winter_Flash",
