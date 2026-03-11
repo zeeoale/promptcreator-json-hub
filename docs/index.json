@@ -1,6 +1,26 @@
 {
-  "updated": "2026-03-10T23:27:26.603152Z",
+  "updated": "2026-03-11T00:37:39.424161Z",
   "items": [
+    {
+      "id": "b4c21962a644",
+      "name": "PFN_Empyrean_Throne (#100)",
+      "file": "json/PFN_Empyrean_Throne (#100).json",
+      "author": "traumakom",
+      "description": "PFN_Empyrean_Throne (#100) world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Empyrean",
+        "Throne",
+        "temple",
+        "marble",
+        "gold",
+        "goddess",
+        "takara",
+        "sensual"
+      ],
+      "preview": "previews/PFN_Empyrean_Throne (#100).png",
+      "updated": "2026-03-11T00:37:39.424161Z"
+    },
     {
       "id": "de640033a6c3",
       "name": "PFN_Urban_Goth_Feline",
