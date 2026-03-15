@@ -1,6 +1,27 @@
 {
-  "updated": "2026-03-11T00:37:39.424161Z",
+  "updated": "2026-03-15T12:18:35.808129Z",
   "items": [
+    {
+      "id": "5efea87dfd93",
+      "name": "PFN_Void_Kyokusen",
+      "file": "json/PFN_Void_Kyokusen.json",
+      "author": "traumakom",
+      "description": "PFN_Void_Kyokusen world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Void",
+        "Kyokusen",
+        "curved",
+        "black",
+        "matte",
+        "gown",
+        "calm",
+        "tonal",
+        "tension"
+      ],
+      "preview": "previews/PFN_Void_Kyokusen.png",
+      "updated": "2026-03-15T12:18:35.808129Z"
+    },
     {
       "id": "b4c21962a644",
       "name": "PFN_Empyrean_Throne (#100)",
