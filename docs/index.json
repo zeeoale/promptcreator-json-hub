@@ -1,6 +1,27 @@
 {
-  "updated": "2026-03-15T12:18:35.808129Z",
+  "updated": "2026-03-15T15:10:20.287313Z",
   "items": [
+    {
+      "id": "912e7dd3ea8d",
+      "name": "PFN_Dark_Tales",
+      "file": "json/PFN_Dark_Tales.json",
+      "author": "traumakom",
+      "description": "PFN_Dark_Tales world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Dark",
+        "Tales",
+        "soft",
+        "labyrinth",
+        "stone",
+        "mythic",
+        "doors",
+        "ancient",
+        "vines"
+      ],
+      "preview": "previews/PFN_Dark_Tales.png",
+      "updated": "2026-03-15T15:10:20.287313Z"
+    },
     {
       "id": "5efea87dfd93",
       "name": "PFN_Void_Kyokusen",
