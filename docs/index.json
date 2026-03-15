@@ -1,6 +1,26 @@
 {
-  "updated": "2026-03-15T15:10:20.287313Z",
+  "updated": "2026-03-15T18:49:42.293555Z",
   "items": [
+    {
+      "id": "09090bf66678",
+      "name": "PFN_Crimson_Tales",
+      "file": "json/PFN_Crimson_Tales.json",
+      "author": "traumakom",
+      "description": "PFN_Crimson_Tales world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Crimson",
+        "Tales",
+        "forest",
+        "dark",
+        "tale",
+        "mysterious",
+        "leaves",
+        "fog"
+      ],
+      "preview": "previews/PFN_Crimson_Tales.png",
+      "updated": "2026-03-15T18:49:42.293555Z"
+    },
     {
       "id": "912e7dd3ea8d",
       "name": "PFN_Dark_Tales",
