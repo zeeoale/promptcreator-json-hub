@@ -1,6 +1,26 @@
 {
-  "updated": "2026-03-15T18:49:42.293555Z",
+  "updated": "2026-03-16T05:26:03.698699Z",
   "items": [
+    {
+      "id": "004ff202165a",
+      "name": "PFN_Labyrinth_Sanctum",
+      "file": "json/PFN_Labyrinth_Sanctum.json",
+      "author": "traumakom",
+      "description": "PFN_Labyrinth_Sanctum world for PromptCreatorNode",
+      "tags": [
+        "PFN",
+        "Labyrinth",
+        "Sanctum",
+        "stone",
+        "ancient",
+        "temple",
+        "forgotten",
+        "dark",
+        "sacred"
+      ],
+      "preview": "previews/PFN_Labyrinth_Sanctum.png",
+      "updated": "2026-03-16T05:26:03.698699Z"
+    },
     {
       "id": "09090bf66678",
       "name": "PFN_Crimson_Tales",
